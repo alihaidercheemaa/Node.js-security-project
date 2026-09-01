@@ -1,4 +1,4 @@
-name: Build code, run the unit test, run SAST, SCA, DAST security scans for NodeJs App
+name: Build code, run the unit test, run SAST, SCA, DAST security scans for Node.Js App
 on: push
 
 jobs:
